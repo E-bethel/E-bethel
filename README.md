@@ -43,7 +43,7 @@ Hi, I'm **Ezeala Abundance**, a driven and detail-oriented **Software Engineerin
 ## 🌟 Projects
 
 ### **EaseGrocery**  
-A fully functional grocery shopping app built with **Ionic** and **Angular**, offering features like user authentication, product catalog browsing, and a seamless checkout experience. [Project Repo](#)
+A fully functional grocery shopping app built with **Ionic** and **Angular**, offering features like user authentication, product catalog browsing, and a seamless checkout experience. [Project Demo](#)
 
 
 ---
@@ -53,8 +53,7 @@ A fully functional grocery shopping app built with **Ionic** and **Angular**, of
 I am always open to discussing new ideas, collaborating on projects, or even chatting about technology trends. Feel free to reach out to me!
 
 - **Email:** [abundanceezeala@gmail.com](mailto:abundanceezeala@gmail.com)
-- **LinkedIn:** [Ezeala Abundance](https://linkedin.com/in/yourprofile)
-
+- **LinkedIn:** [Ezeala Abundance](https://linkedin.com/in/krisbethel12)
 ---
 
 ## 📊 GitHub Stats
